@@ -298,16 +298,34 @@ Simply follow these steps inside the **Streamlit interface**:
 
 ---
 
-### 🧾 Example Output Directory
+## 📊 Output Samples
 
-After each session, all results are automatically saved to the `/outputs` directory.  
-Each output file is **timestamped** for version tracking and easy retrieval.
+All generated visuals and analytical results from **AeroVision-AI** are automatically stored inside the `outputs/` folder after each session.  
+Additionally, curated screenshots are placed in the `reports/` directory for documentation and research presentation.
 
-outputs/
-│
-├── processed_2025-10-28_153210.mp4
-├── detections_2025-10-28_153210.csv
-└── snapshot_2025-10-28_153210.png
+---
+
+### 🖼️ Example Outputs
+
+| Example | Description |
+|----------|-------------|
+| 🖼️ `reports/01.png` | Drone overview showcasing multiple vehicles detected simultaneously using YOLOv8. |
+| 🖼️ `reports/02.png` | Persistent **tracking** view — each vehicle maintains a unique ID across frames. |
+| 🖼️ `reports/03.png` | Custom **watermark overlay** applied to ensure brand identity and professional presentation. |
+| 🖼️ `reports/04.png` | **CSV-exported analytics preview** displaying structured detection and tracking data. |
+| 🖼️ `reports/05.png` | Final **visualization snapshot**, ideal for reports, demonstrations, or publications. |
+
+---
+
+### 📸 Visual Preview
+
+<p align="center">
+  <img src="reports/01.png" width="700" alt="AeroVision-AI Sample Output 1"/>
+</p>
+
+<p align="center">
+  <i>Example: Real-time vehicle detection and tracking from aerial footage using YOLOv8.</i>
+</p>
 
 ## 📈 Analytics & Export
 
