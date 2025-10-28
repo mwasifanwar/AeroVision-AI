@@ -327,6 +327,14 @@ Additionally, curated screenshots are placed in the `reports/` directory for doc
   <i>Example: Real-time vehicle detection and tracking from aerial footage using YOLOv8.</i>
 </p>
 
+<p align="center">
+  <img src="reports/03.png" width="700" alt="AeroVision-AI Sample Output 1"/>
+</p>
+
+<p align="center">
+  <img src="reports/04.png" width="700" alt="AeroVision-AI Sample Output 1"/>
+</p>
+
 ## 📈 Analytics & Export
 
 **AeroVision-AI** automatically logs every detection and tracking event into structured **CSV files**, enabling seamless analysis and post-processing.  
