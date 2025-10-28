@@ -90,7 +90,7 @@ The architecture of **AeroVision-AI** is designed with a clear goal — to creat
 Every layer of the system communicates efficiently, ensuring real-time inference, clean visualization, and effortless data export — all orchestrated within an elegant Streamlit interface.
 
 <p align="center">
-  <img src="architecture.png" width="700" alt="AeroVision-AI Architecture Diagram"/>
+  <img src="./reports/architecture.png" width="700" alt="AeroVision-AI Architecture Diagram"/>
 </p>
 
 ---
